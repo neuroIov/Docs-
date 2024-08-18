@@ -1,7 +1,7 @@
 
 # Neurolov: Revolutionizing Decentralized Computing and AI
 
-**Whitepaper v1.0**
+**Whitepaper v4.0**
 *August 2024*
 
 ## Table of Contents
@@ -500,10 +500,6 @@ This app serves as an entry point to the Neurolov ecosystem, engaging users and 
 
 ## 13. Roadmap
 
-Certainly. Here's the comprehensive 5-year roadmap for Neurolov without numbering:
-
-Comprehensive 5-Year Roadmap for Neurolov
-
 2024
 
 Q1 2024 (Completed and Imminent)
@@ -671,4 +667,4 @@ Visit [www.neurolov.ai](http://www.neurolov.ai) to start your journey in the dec
 
 
 
-This draft aims to present Neurolov as a compelling and innovative platform in the decentralized computing and AI space. You may want to review and adjust specific technical details, tokenomics information, and any other aspects to ensure they accurately reflect your current project status and future plans. Please let me know if you'd like any sections expanded, modified, or if you have any questions or additional information to include.
+
