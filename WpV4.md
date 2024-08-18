@@ -371,7 +371,131 @@ This app serves as an entry point to the Neurolov ecosystem, engaging users and 
 
 ## 13. Roadmap
 
-[Detailed roadmap from Q3 2024 to Q3 2026, highlighting key milestones and developments]
+Certainly. Here's the comprehensive 5-year roadmap for Neurolov without numbering:
+
+Comprehensive 5-Year Roadmap for Neurolov
+
+2024
+
+Q1 2024 (Completed and Imminent)
+- Foundation and Staging 
+- Base platform development
+- Integration with existing GPU Providers
+- Onboarded 170 GPUs
+- Website first version launched
+- Public announcement
+- Community building initiative 
+
+Q4 2024
+- Website final version launch
+- Expand GPU network to 500 nodes
+- Telegram compute application v1 private alpha launch
+- Telegram compute app with marketplace integration launch
+- Expand Telegram userbase to 100k
+- Initiate development of Web3 Compute dApp
+- Begin development of tokenomics and smart contracts for $NLOV
+
+2025
+
+Q1 2025
+- Public launch of compute application
+- Token Generation Event (TGE) for $NLOV
+- Complete development of Web3 Compute dApp
+- Expand Telegram userbase to 250k
+- Implement initial AI model marketplace features
+
+Q2 2025
+- Public Sale of $NLOV tokens
+- DEX listing and liquidity provision
+- Launch staking and rewards program
+- Onboard 1000 GPU nodes
+- Expand Telegram userbase to 500k
+- Launch Connect to Earn feature for CPU/GPU contribution
+
+Q3 2025
+- Implement advanced AI modules for data pre-processing and model training
+- Enhance front-end interface for improved user experience
+- Launch governance platform for $NLOV holders
+- Expand GPU network to 2000 nodes
+- Implement WebGPU support for browser-based GPU acceleration
+
+Q4 2025
+- Integrate federated learning capabilities
+- Launch cross-chain interoperability features
+- Implement advanced analytic tools for staking and liquidity pool performance
+- Expand Telegram userbase to 750k
+- Conduct comprehensive security audits
+
+2026
+
+Q1 2026
+- Launch mobile app for platform interaction
+- Implement AI-powered DeFi integrations
+- Expand GPU network to 5000 nodes
+- Enhance token utility with new features and burn mechanisms
+- Begin transition towards full decentralization of LLM training network
+
+Q2 2026
+- Implement layer-2 scaling solutions for improved transaction throughput
+- Launch advanced multi-GPU training capabilities
+- Expand AI model marketplace with focus on enterprise solutions
+- Reach 1 million Telegram users
+- Implement quantum-resistant cryptography measures
+
+Q3 2026
+- Launch AGI Research Program
+- Develop and release AGI Development Framework
+- Establish comprehensive ethical AI guidelines
+- Create AGI Collaboration Network for researchers and developers
+- Expand GPU network to 10,000 nodes
+
+Q4 2026
+- Implement advanced proof of computation mechanisms
+- Launch decentralized GPU cluster management system
+- Integrate with major cloud providers for hybrid compute solutions
+- Expand AI capabilities to include advanced NLP and computer vision models
+- Reach 2 million total platform users (including Telegram and web app)
+
+2027
+
+Q1 2027
+- Launch Neurolov Grant Program for AI researchers and developers
+- Implement advanced privacy-preserving computation techniques
+- Expand to new blockchain networks for increased interoperability
+- Develop and launch AI model auditing and certification system
+- Expand GPU network to 20,000 nodes
+
+Q2 2027
+- Launch Neurolov Academy for AI education and training
+- Implement advanced resource allocation algorithms using quantum computing
+- Develop industry-specific AI solutions (healthcare, finance, etc.)
+- Reach 5 million total platform users
+- Host first annual Neurolov Global AI Conference
+
+Q3 2027
+- Launch Neurolov Accelerator Program for AI startups
+- Implement advanced AGI safety measures and monitoring systems
+- Develop and release Neurolov OS for optimized AI compute
+- Expand GPU network to 50,000 nodes
+- Establish Neurolov Research Labs in key global locations
+
+Q4 2027
+- Launch Neurolov Metaverse for collaborative AI development
+- Implement quantum machine learning capabilities
+- Develop advanced AI-human interaction interfaces
+- Reach 10 million total platform users
+- Establish Neurolov as a leading force in global AI governance discussions
+
+2028
+
+Q1-Q4 2028
+- Continue expansion of GPU network aiming for 100,000 nodes
+- Further development of AGI capabilities and safety measures
+- Ongoing improvement of platform features, user experience, and AI capabilities
+- Expansion into new markets and use cases
+- Continuous community engagement and ecosystem growth
+
+
 
 ## 14. Use Cases
 
