@@ -338,9 +338,7 @@ To ensure optimal performance and scalability, Neurolov implements:
 - Latency minimization techniques
 - Proof of Computation (PoC) system
 
-## 11. Tokenomics
 
-Certainly. I'll implement these recommendations and provide a comprehensive, updated tokenomics section for Neurolov. Here's the revised version:
 
 ## 11. Tokenomics
 
