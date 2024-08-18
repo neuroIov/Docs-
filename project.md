@@ -68,11 +68,11 @@ NEUROLOV is a gamified mobile application that engages users through a tapping m
   - Returns: `{ xp: number, checkInStreak: number }`
 
 ### Quests and Achievements
-- `GET /api/daily-quests`
-  - Retrieve daily quests
+- `GET /api/quests`
+  - Retrieve  quests
   - Returns: `[{ id: string, name: string, description: string, xpReward: number, completed: boolean }]`
 
-- `POST /api/daily-quests/claim/:questId`
+- `POST /api/quests/claim/:questId`
   - Claim completed quest
   - Returns: `{ message: string, xp: number }`
 
@@ -90,11 +90,11 @@ NEUROLOV is a gamified mobile application that engages users through a tapping m
   - Returns: `{ position: number, totalUsers: number }`
 
 ### Referrals
-- `POST /api/referrals/generate-code`
+- `POST /api/referral/generate-code`
   - Generate referral code
   - Returns: `{ referralCode: string }`
 
-- `POST /api/referrals/apply-code`
+- `POST /api/referral/apply-code`
   - Apply referral code
   - Parameters: `{ referralCode: string }`
   - Returns: `{ message: string, xpEarned: number }`
