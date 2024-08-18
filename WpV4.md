@@ -91,75 +91,247 @@ Neurolov addresses these challenges by creating a decentralized computing networ
 
 By optimizing GPU utilization, Neurolov reduces user costs while improving processing efficiency[^2].
 
+
+
 ## 7. Technical Architecture
 
-Neurolov's cutting-edge technical architecture leverages the synergistic convergence of blockchain, AI, and distributed computing paradigms to revolutionize the GPU-as-a-Service landscape.
+Neurolov's technical architecture is a sophisticated blend of cutting-edge technologies, designed to create a robust, scalable, and efficient decentralized computing platform. At its core, the architecture leverages blockchain technology, WebGPU, and advanced distributed systems to enable seamless GPU resource sharing and AI model deployment.
 
-### 7.1 Smart Contract Structure
+### 7.1 Blockchain Integration
 
-The Neurolov ecosystem employs a sophisticated smart contract architecture comprising several interconnected modules:
+Neurolov utilizes a dual-blockchain approach to optimize for both performance and accessibility:
 
-- UserManager: Handles user registration and authentication
-- GPUMarketplace: Manages GPU listings, rentals, and payments
-- TokenManager: Oversees $NLOV transactions and staking mechanisms
-- GovernanceModule: Enables community voting on proposals
+#### 7.1.1 Solana Blockchain
 
-[IMAGE PLACEHOLDER: Smart contract interaction flowchart]
+Solana serves as the primary blockchain for Neurolov due to its high throughput and low transaction costs.
 
-### 7.2 Off-Chain Components
+- **Smart Contracts**: Written in Rust using the Solana Program Library (SPL)
+- **Transaction Processing**: Capable of handling 65,000 TPS with sub-second finality
+- **Proof of History (PoH)**: Enables efficient time-stamping of transactions
+- **Token Standard**: SPL Token for $NLOV and other platform assets
 
-Key off-chain components include:
+#### 7.1.2 TON (The Open Network)
 
-- GPU Cluster Manager: Orchestrates GPU resources across multiple data centers
-- AI Model Repository: Stores and versions AI models and datasets
-- Result Validator: Ensures the integrity of computed results
-- Analytics Engine: Provides insights into platform usage and performance
+TON is integrated as a secondary blockchain to enhance scalability and provide additional features:
 
-### 7.3 UI and UX
+- **Smart Contracts**: Implemented using FunC (Functional Contract) language
+- **Infinite Sharding Paradigm**: Allows for horizontal scalability
+- **TON DNS**: Facilitates human-readable addressing for resources
+- **TON Storage**: Provides decentralized storage for large datasets and models
 
-The Neurolov platform boasts an intuitive and comprehensive user interface, featuring:
+### 7.2 WebGPU and WebGL Implementation
 
-- Dynamic Dashboard: Provides real-time data visualizations
-- Marketplace: Facilitates browsing and renting of GPU resources
-- Model Management: Offers tools for uploading, training, and deploying AI models
-- Community Hub: Fosters user engagement and platform governance
+Neurolov leverages WebGPU as the primary technology for GPU access, with WebGL as a fallback for broader compatibility:
 
-### 7.4 WebGPU Implementation
+#### 7.2.1 WebGPU
 
-Neurolov leverages WebGPU to enable:
+- **Compute Shaders**: Written in WGSL (WebGPU Shading Language)
+- **Resource Binding**: Utilizes explicit binding model for efficient resource management
+- **Multi-threaded Command Encoding**: Enables parallel processing of GPU commands
+- **Texture Compression**: BC, ETC2, and ASTC formats supported for efficient data transfer
 
-- Client-side GPU computations
-- Reduced latency for AI tasks
-- Enhanced user experience with real-time visualizations
+#### 7.2.2 WebGL
 
-By utilizing WebGPU, Neurolov ensures seamless integration of local and cloud GPU resources, enhancing overall platform efficiency and user experience.
+- **Shader Language**: GLSL ES 3.0 for compute operations
+- **Extensions**: Utilizes WebGL 2.0 Compute for general-purpose GPU computations
+- **Texture Formats**: Support for various formats including floating-point textures
+
+### 7.3 Distributed System Architecture
+
+The backbone of Neurolov's infrastructure is a robust distributed system:
+
+#### 7.3.1 Microservices Architecture
+
+- **Container Orchestration**: Kubernetes for managing containerized services
+- **Service Mesh**: Istio for inter-service communication and traffic management
+- **API Gateway**: Kong for routing, authentication, and rate limiting
+
+#### 7.3.2 Data Management
+
+- **Distributed Database**: CockroachDB for globally distributed, consistent data storage
+- **Caching Layer**: Redis for high-performance data caching
+- **Time-Series Data**: InfluxDB for storing and querying performance metrics
+
+#### 7.3.3 Message Queuing
+
+- **Event Streaming**: Apache Kafka for high-throughput, fault-tolerant message processing
+- **Task Queue**: RabbitMQ for managing distributed computational tasks
+
+### 7.4 AI Framework Integration
+
+Neurolov supports multiple AI frameworks to cater to diverse developer needs:
+
+- **TensorFlow**: Integration with TensorFlow Serving for model deployment
+- **PyTorch**: Support for PyTorch JIT for efficient model execution
+- **ONNX**: Cross-framework model interoperability
+- **MLflow**: For experiment tracking and model versioning
+
+### 7.5 Security Measures
+
+Robust security measures are implemented throughout the architecture:
+
+- **Encryption**: AES-256 for data at rest, TLS 1.3 for data in transit
+- **Access Control**: OAuth 2.0 and JWT for authentication and authorization
+- **Secure Enclaves**: Intel SGX support for sensitive computations
+- **DDoS Protection**: AWS Shield and Cloudflare for network layer protection
+
+### 7.6 Frontend Technologies
+
+The user interface is built with modern web technologies:
+
+- **Framework**: React with Next.js for server-side rendering
+- **State Management**: Redux with Redux Toolkit
+- **Styling**: Tailwind CSS for utility-first styling
+- **Data Visualization**: D3.js and Three.js for complex data and 3D visualizations
+
+[IMAGE PLACEHOLDER: Detailed system architecture diagram]
 
 ## 8. GPU Allocation and Management
 
-Neurolov employs a sophisticated resource allocation algorithm to optimize GPU distribution. The algorithm considers factors such as:
+Neurolov's GPU allocation and management system is designed to optimize resource utilization, ensure fair distribution, and maximize performance for all users.
 
-- User priority (based on $NLOV stake)
-- Task urgency
-- Task complexity
+### 8.1 Resource Allocation Algorithm
 
-[IMAGE PLACEHOLDER: GPU allocation and scheduling diagram]
+The core of Neurolov's GPU management is a sophisticated allocation algorithm:
 
-The platform also implements:
+#### 8.1.1 Multi-factor Scoring System
 
-- Dynamic pricing model
-- Multi-GPU training capabilities
-- GPU utilization optimization techniques
+Each GPU request is scored based on multiple factors:
 
-## 9. AI Capabilities
+```python
+Score = (User_Stake * 0.4) + (Task_Urgency * 0.3) + (Task_Complexity * 0.3)
+```
 
-Neurolov offers extensive support for a wide range of AI models and advanced capabilities:
+- **User_Stake**: Determined by the amount of $NLOV tokens staked
+- **Task_Urgency**: Calculated based on user-defined priorities and deadlines
+- **Task_Complexity**: Estimated using heuristics like model size, dataset volume, and computational intensity
 
-- Comprehensive AI model support (CNNs, RNNs, Transformers, etc.)
-- Advanced LLM fine-tuning
-- Intelligent model selection
-- Federated learning implementation
+#### 8.1.2 Dynamic Pricing Model
 
-[IMAGE PLACEHOLDER: AI modeling ecosystem diagram]
+GPU pricing adjusts in real-time based on supply and demand:
+
+```python
+Price = BasePrice * (1 + DemandFactor) * (1 + CapabilityFactor) * SeasonalAdjustment
+```
+
+- **BasePrice**: Set by GPU providers
+- **DemandFactor**: Increases during high-demand periods
+- **CapabilityFactor**: Adjusts based on GPU specifications
+- **SeasonalAdjustment**: Accounts for long-term usage patterns
+
+### 8.2 GPU Virtualization
+
+Neurolov implements GPU virtualization to maximize resource utilization:
+
+- **vGPU Technology**: NVIDIA GRID vGPU and AMD MxGPU support
+- **Time-Slicing**: Fine-grained sharing of GPU resources among multiple users
+- **Memory Partitioning**: Isolated memory spaces for concurrent tasks
+
+### 8.3 Task Scheduling and Queueing
+
+Efficient task management is crucial for optimal GPU utilization:
+
+- **Priority Queueing**: Heap-based priority queue for task ordering
+- **Backfilling Algorithm**: Optimizes GPU utilization by fitting smaller tasks into gaps
+- **Preemption**: Allows high-priority tasks to interrupt lower-priority ones when necessary
+
+### 8.4 Load Balancing
+
+Neurolov employs advanced load balancing techniques:
+
+- **Consistent Hashing**: For distributing tasks across GPU nodes
+- **Least Connection Method**: Assigns new tasks to the least loaded GPU
+- **Predictive Load Balancing**: Uses machine learning to anticipate and preemptively balance loads
+
+### 8.5 Fault Tolerance and Recovery
+
+To ensure system reliability:
+
+- **Checkpointing**: Periodic saving of computation state
+- **Task Migration**: Seamless movement of tasks between GPUs in case of failures
+- **Redundancy**: Critical tasks are replicated across multiple GPUs
+
+### 8.6 Multi-GPU Training Support
+
+For large-scale AI tasks, Neurolov offers multi-GPU training capabilities:
+
+- **Data Parallelism**: Distributes batches across multiple GPUs
+- **Model Parallelism**: Splits large models across GPUs
+- **Pipeline Parallelism**: Enables efficient training of very deep neural networks
+
+[IMAGE PLACEHOLDER: GPU allocation and task scheduling flowchart]
+
+## 9. Performance and Scalability
+
+Neurolov is designed to deliver high performance and seamless scalability as the network grows.
+
+### 9.1 Distributed GPU Performance Model
+
+The platform uses a sophisticated model to predict and optimize performance:
+
+```python
+P = (N * G * E) / (1 + L/C)
+
+Where:
+P = Overall performance
+N = Number of GPUs
+G = Individual GPU performance
+E = Parallelization efficiency
+L = Network latency
+C = Computation time
+```
+
+This model helps in predicting performance gains and optimizing resource allocation.
+
+### 9.2 Scaling Strategies
+
+To accommodate network growth, Neurolov implements:
+
+#### 9.2.1 Sharding
+
+- **Network Sharding**: Divides the network into sub-networks for improved throughput
+- **State Sharding**: Distributes the global state across multiple nodes
+- **Transaction Sharding**: Parallelizes transaction processing across shards
+
+#### 9.2.2 Layer-2 Solutions
+
+- **Solana Wormhole**: For cross-chain interoperability
+- **TON Workchains**: Parallel processing chains for increased throughput
+
+#### 9.2.3 Dynamic Node Recruitment
+
+- **Automatic Discovery**: New GPU nodes are automatically discovered and onboarded
+- **Reputation System**: Nodes build reputation over time, influencing task allocation
+
+### 9.3 Latency Optimization
+
+To minimize latency:
+
+- **Geo-Distributed Nodes**: Strategic placement of nodes to reduce network latency
+- **Edge Computing Integration**: Leveraging edge nodes for latency-sensitive tasks
+- **Predictive Prefetching**: Using ML models to anticipate and preload required data
+
+### 9.4 Efficiency Considerations
+
+To maximize efficiency:
+
+- **Adaptive Batch Sizing**: Dynamically adjusts batch sizes based on GPU utilization
+- **Mixed Precision Training**: Utilizes lower precision formats where possible to increase throughput
+- **Kernel Fusion**: Combines multiple small operations into larger, more efficient kernels
+
+### 9.5 Proof of Computation (PoC)
+
+Neurolov implements a robust PoC system:
+
+1. **Task Commitment**: GPU providers stake $NLOV tokens as a guarantee
+2. **Execution**: The task is performed on the GPU
+3. **Result Submission**: Providers submit results with a zero-knowledge proof
+4. **Verification**: Multiple nodes verify the proof using a fraction of the original computation
+5. **Consensus**: Results are accepted if a majority of verifiers agree
+
+[IMAGE PLACEHOLDER: Performance scaling graph and PoC flowchart]
+
+
 
 ## 10. Performance and Scalability
 
