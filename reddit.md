@@ -40,10 +40,11 @@ Winners will be announced in one week!
 • Whitepaper: [Whitepaper](https://wiki.neurolov.ai)
 • Telegram: [t.me/Neurolov](https://t.me/Neurolov)
 • Twitter: [@Neurolov](https://twitter.com/Neurolov)
+• Twitter: [Github](https://github.com/neuroIov)
 
 💡 Get Involved:
 
-We're always looking for contributors, whether you're a developer, AI researcher, content creator, or just passionate about the future of AI. Check out our [Contributor Guidelines] to see how you can help build the future of decentralized AI.
+We're always looking for contributors, whether you're a developer, AI researcher, content creator, or just passionate about the future of AI, Kindly reach out to us to see how you can help build the future of decentralized AI.
 
 Let's make this subreddit a vibrant hub for all things Neurolov. Feel free to introduce yourself, ask questions, and share your ideas. We're excited to grow this community together!
 
