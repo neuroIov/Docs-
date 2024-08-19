@@ -37,9 +37,9 @@ Winners will be announced in one week!
 🔗 Important Links:
 
 • Website: [www.neurolov.ai](https://www.neurolov.ai)
-• Whitepaper: [Link to Whitepaper]
-• Telegram: [t.me/NeurolovOfficial](https://t.me/NeurolovOfficial)
-• Twitter: [@NeurolovAI](https://twitter.com/NeurolovAI)
+• Whitepaper: [Whitepaper](https://wiki.neurolov.ai)
+• Telegram: [t.me/Neurolov](https://t.me/Neurolov)
+• Twitter: [@Neurolov](https://twitter.com/Neurolov)
 
 💡 Get Involved:
 
