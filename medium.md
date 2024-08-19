@@ -1,7 +1,7 @@
 
 Title: Introducing Neurolov: Revolutionizing AI Development with Decentralized GPU Power
 
-[IMAGE PLACEHOLDER: Neurolov logo and platform interface]
+[IMAGE Neurolov logo and platform interface]
 
 The world of artificial intelligence is about to change forever. We are thrilled to announce the launch of Neurolov, a groundbreaking platform that democratizes access to GPU computing power and advanced AI capabilities. Set to go live next week, Neurolov is poised to reshape the landscape of AI development, making it more accessible, efficient, and collaborative than ever before.
 
@@ -65,7 +65,6 @@ To celebrate our launch, we're rolling out an exciting series of events:
 - Exclusive early access for the first 1,000 sign-ups
 - Special  rewards for early users.
 
-[IMAGE PLACEHOLDER: Infographic of launch week events]
 
 **The Future is Decentralized, The Future is AI, The Future is Now**
 
@@ -73,7 +72,11 @@ As we stand on the brink of a new era in AI development, we invite you to be par
 
 **Ready to Shape the Future of AI?**
 
-Visit [www.neurolov.ai](http://www.neurolov.ai) to sign up for early access and be part of the AI revolution from day one. Follow us on Twitter [@NeurolovAI](https://twitter.com/NeurolovAI) and join our Discord community to stay updated on launch events and be the first to know when we go live.
+Visit [www.neurolov.ai](http://www.neurolov.ai) to sign up for early access and be part of the AI revolution from day one. 
+
+Follow us on Twitter [@NeurolovAI](https://twitter.com/NeurolovAI) 
+
+Join our Discord community to stay updated on launch events and be the first to know when we go live.
 
 The future of AI is decentralized, and it starts with Neurolov. Don't just witness the revolution—be part of it.
 
