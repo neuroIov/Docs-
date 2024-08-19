@@ -30,7 +30,7 @@ Neurolov is a groundbreaking platform that's set to revolutionize the AI industr
 To celebrate our subreddit launch, we're giving away 1000 $NLOV tokens to 10 lucky members! To enter:
 1. Subscribe to r/Neurolov
 2. Comment on this post with your ideas for using Neurolov
-3. Share this post on your social media (tag @NeurolovAI on Twitter)
+3. Share this post on your social media (tag @Neurolov on Twitter)
 
 Winners will be announced in one week!
 
