@@ -14,12 +14,11 @@ Imagine a world where anyone with an idea can harness the power of cutting-edge 
 1. **Decentralized GPU Marketplace**: Access high-performance computing power on-demand, with transparent pricing and instant scalability.
 
 2. **AI Model Repository**: Choose from six pre-deployed, state-of-the-art AI models ready for immediate use:
-   - NeuroBERT for natural language understanding
-   - NeuroGPT for advanced text generation
-   - NeuroVision for computer vision tasks
+   - NeuroAudio for Text to Audio Generation
+   - NeuroGPT for advanced text Generation
+   - NeuroVision for Realtime Face Generation
    - NeuroGAN for creative image synthesis
-   - NeuroRNN for sequence prediction
-   - NeuroRL for reinforcement learning applications
+
 
 3. **WebGPU Integration**: Leverage the power of GPU acceleration directly in your browser, no downloads required.
 
@@ -62,10 +61,9 @@ Neurolov isn't just a platform; it's a movement. We're creating a future where A
 
 To celebrate our launch, we're rolling out an exciting series of events:
 
-- Daily webinars showcasing each of our pre-deployed AI models
-- A 24-hour hackathon with $100,000 in prizes
+- Webinars showcasing each of our pre-deployed AI modelss
 - Exclusive early access for the first 1,000 sign-ups
-- Special staking rewards for early $NLOV token holders
+- Special  rewards for early users.
 
 [IMAGE PLACEHOLDER: Infographic of launch week events]
 
