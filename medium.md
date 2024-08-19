@@ -1,5 +1,7 @@
 
-**Introducing Neurolov: Revolutionizing AI Development with Decentralized GPU Power**
+**Introducing Neurolov**
+
+**Revolutionizing AI Development with Decentralized GPU Power**
 
 [IMAGE Neurolov logo and platform interface]
 
