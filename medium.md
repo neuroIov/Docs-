@@ -82,5 +82,5 @@ The future of AI is decentralized, and it starts with Neurolov. Don't just witne
 
 #Neurolov #AIRevolution #DecentralizedComputing #GPUMarketplace #BlockchainAI
 
-[IMAGE PLACEHOLDER: Call-to-action button "Join Neurolov Now"]
+[IMAGE: Call-to-action button "Join Neurolov Now"]
 
