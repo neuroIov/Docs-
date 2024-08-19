@@ -74,7 +74,7 @@ As we stand on the brink of a new era in AI development, we invite you to be par
 
 Visit [www.neurolov.ai](http://www.neurolov.ai) to sign up for early access and be part of the AI revolution from day one. 
 
-Follow us on Twitter [@NeurolovAI](https://twitter.com/NeurolovAI) 
+Follow us on Twitter [@Neurolov](https://twitter.com/Neurolov) 
 
 Join our Discord community to stay updated on launch events and be the first to know when we go live.
 
