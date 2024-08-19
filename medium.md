@@ -11,7 +11,7 @@ The world of artificial intelligence is about to change forever. We are thrilled
 
 Imagine a world where anyone with an idea can harness the power of cutting-edge AI without the need for massive infrastructure investments. That's the world Neurolov is creating. Our platform connects GPU providers with AI developers, creating a decentralized marketplace for computational power that's as easy to use as hailing a ride or booking a stay.
 
-**Key Features That Set Neurolov Apart**
+**Key Features **
 
 1. **Decentralized GPU Marketplace**: Access high-performance computing power on-demand, with transparent pricing and instant scalability.
 
@@ -28,7 +28,7 @@ Imagine a world where anyone with an idea can harness the power of cutting-edge 
 
 5. **$NLOV Token Economy**: Participate in a robust ecosystem that rewards contribution and fuels innovation.
 
-**Technical Marvel Under the Hood**
+**Technical Marvel**
 
 Neurolov isn't just user-friendly; it's a technical powerhouse. Our platform leverages cutting-edge technologies to ensure unparalleled performance and security:
 
