@@ -479,35 +479,35 @@ The $NLOV token is the cornerstone of the Neurolov ecosystem, designed to incent
 
 **Token Allocation**
 
-**Pre-Sale: 2% (10,000,000 tokens)**
-**Public Sale: 6% (30,000,000 tokens)**
-**Ecosystem Fund: 20% (100,000,000 tokens)**
-**Team: 16% (80,000,000 tokens)**
-**Treasury: 15% (75,000,000 tokens)**
-**Staking Rewards: 8% (40,000,000 tokens)**
-**Liquidity Incentives: 6% (30,000,000 tokens)**
-**Strategic Partnerships: 4% (20,000,000 tokens)**
-**R&D: 4% (20,000,000 tokens)**
-**Marketing: 4% (20,000,000 tokens)**
-**Advisors: 2% (10,000,000 tokens)**
-**Reserve: 13% (65,000,000 tokens)**
+- **Pre-Sale: 2% (10,000,000 tokens)**
+- **Public Sale: 6% (30,000,000 tokens)**
+- **Ecosystem Fund: 20% (100,000,000 tokens)**
+- **Team: 16% (80,000,000 tokens)**
+- **Treasury: 15% (75,000,000 tokens)**
+- **Staking Rewards: 8% (40,000,000 tokens)**
+- **Liquidity Incentives: 6% (30,000,000 tokens)**
+- **Strategic Partnerships: 4% (20,000,000 tokens)**
+- **R&D: 4% (20,000,000 tokens)**
+- **Marketing: 4% (20,000,000 tokens)**
+- **Advisors: 2% (10,000,000 tokens)**
+- **Reserve: 13% (65,000,000 tokens)**
 
 [Pie chart visualizing token allocation]
 
 **Token Sale Structure**
 
-A] Pre-Sale
-   Allocation: 10,000,000 tokens (2% of total supply)
-   Price: $0.055
-   Raise: $550,000
-   Vesting: 50% unlocked at TGE, then linear vesting over 1 month
+A] - Pre-Sale
+   - Allocation: 10,000,000 tokens (2% of total supply)
+   - Price: $0.055
+   - Raise: $550,000
+   - Vesting: 50% unlocked at TGE, then linear vesting over 1 month
 
-b] Public Sale
-   Allocation: 30,000,000 tokens (2% of total supply)
-   Price: $0.077
-   Raise: $2,310,000
-   Vesting: 50% unlocked at TGE, then linear vesting over 2 months
-   Total Raise: $2,860,000
+-B]- Public Sale
+   - Allocation: 30,000,000 tokens (2% of total supply)
+   - Price: $0.077
+   - Raise: $2,310,000
+   - Vesting: 50% unlocked at TGE, then linear vesting over 2 months
+   - Total Raise: $2,860,000
 
 **Ecosystem Fund Allocation**
 
