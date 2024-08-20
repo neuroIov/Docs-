@@ -45,7 +45,6 @@ The digital landscape is undergoing a profound transformation, with the surge in
 
 Neurolov introduces a groundbreaking decentralized architecture designed to revolutionize the traditional GPU compute market. By leveraging a novel incentive mechanism for the sharing of GPU resources, this framework aspires to democratize access to computational power, mitigate costs, and stimulate innovation across the AI and machine learning sectors.
 
-[IMAGE PLACEHOLDER: Overview of Neurolov ecosystem]
 
 ## 3. Vision and Mission
 
@@ -57,7 +56,7 @@ Our mission is to completely transform the way cutting-edge AI technologies are 
 
 The global market for GPUs and high-performance computing resources is predicted to reach a valuation of over $26 billion by 2032[^1], exhibiting exponential growth. This expansion is driven by growing demands from various industries, including artificial intelligence, gaming, and data research. 
 
-[IMAGE PLACEHOLDER: Graph showing GPU market growth projections]
+[raph showing GPU market growth projections]
 
 However, the market is hampered by restricted availability, which is exacerbated by production limitations and geographical differences. Neurolov is strategically positioned to capitalize on these market dynamics by offering a decentralized, efficient, and accessible solution to high-performance computing needs.
 
@@ -83,10 +82,9 @@ Neurolov addresses these challenges by creating a decentralized computing networ
 4. Enhanced security through cryptography and distributed storage systems
 5. A transparent and equitable marketplace for GPU resources
 
-[IMAGE PLACEHOLDER: Neurolov solution architecture overview]
+[IMAGE: solution architecture overview]
 
 By optimizing GPU utilization, Neurolov reduces user costs while improving processing efficiency[^2].
-
 
 
 ## 7. Technical Architecture
@@ -180,7 +178,7 @@ The user interface is built with modern web technologies:
 - **Styling**: Tailwind CSS for utility-first styling
 - **Data Visualization**: D3.js and Three.js for complex data and 3D visualizations
 
-[IMAGE PLACEHOLDER: Detailed system architecture diagram]
+[IMAGE: Detailed sys architecture]
 
 ## 8. GPU Allocation and Management
 
@@ -255,8 +253,7 @@ For large-scale AI tasks, Neurolov offers multi-GPU training capabilities:
 - **Model Parallelism**: Splits large models across GPUs
 - **Pipeline Parallelism**: Enables efficient training of very deep neural networks
 
-[IMAGE PLACEHOLDER: GPU allocation and task scheduling flowchart]
-
+[IMAGE: GPU allocation and task scheduling flowchart]
 
 
 ## 9. AI Capabilities
@@ -267,7 +264,7 @@ Neurolov's platform is at the forefront of AI innovation, offering a comprehensi
 
 We currently have six state-of-the-art AI models ready for immediate deployment:
 
-1. **NeuroBERT**: A fine-tuned BERT model optimized for natural language understanding tasks.
+1. **NeuroGPT**: A fine-tuned BERT model optimized for natural language understanding tasks.
    - Architecture: 12-layer, 768-hidden, 12-heads, 110M parameters
    - Use cases: Sentiment analysis, named entity recognition, question answering
 
@@ -279,6 +276,9 @@ We currently have six state-of-the-art AI models ready for immediate deployment:
    - Architecture: EfficientNet-B4 backbone with Feature Pyramid Network
    - Use cases: Medical imaging, autonomous vehicles, retail analytics
 
+4. **NeuroAudio**: An advanced Test to Audio model
+   - Architecture: Based on GPT-3 architecture, 1.5B parameters
+   - Use cases: Audio content creation, Audiobots, Music generation.
 
 ### 9.2 Integration Capabilities
 
@@ -462,8 +462,7 @@ Neurolov implements a robust PoC system:
 4. **Verification**: Multiple nodes verify the proof using a fraction of the original computation
 5. **Consensus**: Results are accepted if a majority of verifiers agree
 
-[IMAGE PLACEHOLDER: Performance scaling graph and PoC flowchart]
-
+[IMAGE: Performance scaling graph and PoC flowchart]
 
 
 ## 11. Performance and Scalability
@@ -474,8 +473,6 @@ To ensure optimal performance and scalability, Neurolov implements:
 - Sharding and Layer-2 solutions for network growth
 - Latency minimization techniques
 - Proof of Computation (PoC) system
-
-
 
 ## 12. Tokenomics
 
@@ -496,7 +493,7 @@ The $NLOV token is the cornerstone of the Neurolov ecosystem, designed to incent
 - Advisors: 2% (10,000,000 tokens)
 - Reserve: 13% (65,000,000 tokens)
 
-[IMAGE PLACEHOLDER: Pie chart visualizing token allocation]
+[IMAGE: Pie chart token alloc]
 
 ### 11.2 Token Sale Structure
 
@@ -598,7 +595,7 @@ At TGE, the initial circulating supply will be approximately 14,300,000 $NLOV to
 
 This controlled emission schedule helps manage token supply and potentially increase value over time.
 
-[IMAGE PLACEHOLDER: Graph showing token emission schedule]
+[IMAGE:  Graph for token emission schedule]
 
 ### 11.13 Use of Funds
 
@@ -610,7 +607,7 @@ Funds raised through token sales will be allocated as follows:
 - Research and Development: 10%
 - Liquidity Provision: 10%
 
-[IMAGE PLACEHOLDER: Bar chart showing use of funds breakdown]
+[IMAGE: Bar chart, use of funds]
 
 This comprehensive tokenomics model aims to create a sustainable and growth-oriented ecosystem for Neurolov. It balances the needs of various stakeholders while providing mechanisms for long-term value accrual and community-driven development. The governance system ensures that token holders have a say in the platform's future, while the staking and liquidity incentives encourage long-term participation and support.
 
@@ -625,7 +622,7 @@ The NeuroLov Telegram app is a micro-application that gamifies the concept of co
 - Guild formation and collaboration
 - AI model marketplace within the app
 
-[IMAGE PLACEHOLDER: NeuroLov Telegram app interface]
+[IMAGE: NeuroLov Telegram app interface]
 
 This app serves as an entry point to the Neurolov ecosystem, engaging users and demonstrating the practical applications of compute sharing in an accessible format.
 
@@ -764,7 +761,6 @@ Neurolov's platform enables a wide range of applications across various industri
 - Healthcare: Medical image analysis, drug discovery
 - Industrial Applications: Predictive maintenance, supply chain optimization
 
-[IMAGE PLACEHOLDER: Use case diagram]
 
 ## 16. Community and Governance
 
@@ -776,7 +772,7 @@ Neurolov is committed to building a vibrant, engaged community and implementing 
 - Incentivized participation in governance
 - Community development funds
 
-[IMAGE PLACEHOLDER: Governance flowchart]
+[IMAGE: Governance flowchart]
 
 ## 17. Conclusion
 
