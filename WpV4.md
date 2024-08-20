@@ -474,140 +474,133 @@ To ensure optimal performance and scalability, Neurolov implements:
 - Latency minimization techniques
 - Proof of Computation (PoC) system
 
-## 12. Tokenomics
-
+**Tokenomics**
 The $NLOV token is the cornerstone of the Neurolov ecosystem, designed to incentivize participation, govern the platform, and facilitate seamless transactions. The total supply of $NLOV tokens is 500 million (500,000,000).
 
-### 11.1 Token Allocation
+**Token Allocation**
 
-- Ecosystem Fund: 20% (100,000,000 tokens)
-- Team: 16% (80,000,000 tokens)
-- Treasury: 15% (75,000,000 tokens)
-- Public Sale: 2% (10,000,000 tokens)
-- Pre-Sale: 6% (30,000,000 tokens)
-- Staking Rewards: 8% (40,000,000 tokens)
-- Liquidity Incentives: 6% (30,000,000 tokens)
-- Strategic Partnerships: 4% (20,000,000 tokens)
-- R&D: 4% (20,000,000 tokens)
-- Marketing: 4% (20,000,000 tokens)
-- Advisors: 2% (10,000,000 tokens)
-- Reserve: 13% (65,000,000 tokens)
+**Pre-Sale: 2% (10,000,000 tokens)**
+**Public Sale: 6% (30,000,000 tokens)**
+**Ecosystem Fund: 20% (100,000,000 tokens)**
+**Team: 16% (80,000,000 tokens)**
+**Treasury: 15% (75,000,000 tokens)**
+**Staking Rewards: 8% (40,000,000 tokens)**
+**Liquidity Incentives: 6% (30,000,000 tokens)**
+**Strategic Partnerships: 4% (20,000,000 tokens)**
+**R&D: 4% (20,000,000 tokens)**
+**Marketing: 4% (20,000,000 tokens)**
+**Advisors: 2% (10,000,000 tokens)**
+**Reserve: 13% (65,000,000 tokens)**
 
-[IMAGE: Pie chart token alloc]
+[Pie chart visualizing token allocation]
 
-### 11.2 Token Sale Structure
+**Token Sale Structure**
 
-#### Pre-Sale
-- Allocation: 30,000,000 tokens (6% of total supply)
-- Price: $0.05
-- Raise: $1,500,000
-- Vesting: 10% unlocked at TGE, then linear vesting over 6 months
+A] Pre-Sale
+   Allocation: 10,000,000 tokens (2% of total supply)
+   Price: $0.055
+   Raise: $550,000
+   Vesting: 50% unlocked at TGE, then linear vesting over 1 month
 
-#### Public Sale
-- Allocation: 10,000,000 tokens (2% of total supply)
-- Price: $0.05
-- Raise: $500,000
-- Vesting: 20% unlocked at TGE, then linear vesting over 3 months
+b] Public Sale
+   Allocation: 30,000,000 tokens (2% of total supply)
+   Price: $0.077
+   Raise: $2,310,000
+   Vesting: 50% unlocked at TGE, then linear vesting over 2 months
+   Total Raise: $2,860,000
 
-Total Raise: $2,000,000
-
-### 11.3 Ecosystem Fund Allocation
+**Ecosystem Fund Allocation**
 
 The Ecosystem Fund (20% of total supply) will be used to foster growth and development within the Neurolov ecosystem:
 
-1. Developer Grants (40%): Funding for projects building on Neurolov
-2. Community Incentives (30%): Rewards for community-driven initiatives and contributions
-3. Hackathons and Bounties (15%): Encouraging innovation and problem-solving
-4. Education and Onboarding (15%): Resources for new users and developers
+Developer Grants (40%): Funding for projects building on Neurolov
+Community Incentives (30%): Rewards for community-driven initiatives and contributions
+Hackathons and Bounties (15%): Encouraging innovation and problem-solving
+Education and Onboarding (15%): Resources for new users and developers
 
-### 11.4 Staking Rewards
-
+**Staking Rewards**
 A tiered staking system will be implemented to encourage long-term holding:
 
-- Tier 1 (30 days): 5% APY
-- Tier 2 (90 days): 8% APY
-- Tier 3 (180 days): 12% APY
-- Tier 4 (365 days): 15% APY
+Tier 1 (30 days): 5% APY
+Tier 2 (90 days): 8% APY
+Tier 3 (180 days): 12% APY
+Tier 4 (365 days): 15% APY
 
 Staking rewards will be distributed from the allocated 8% of total supply over a period of 5 years, with the option to extend through governance decisions.
 
-### 11.5 Strategic Partnerships
+**Strategic Partnerships**
 
 Criteria for strategic partners:
 
-1. Technological Synergy: Partners whose technology complements Neurolov's offerings
-2. Market Reach: Ability to expand Neurolov's user base or enter new markets
-3. Domain Expertise: Bringing specialized knowledge in AI, blockchain, or relevant industries
-4. Resource Contribution: Significant GPU or AI model contributions to the network
+Technological Synergy: Partners whose technology complements Neurolov's offerings
+Market Reach: Ability to expand Neurolov's user base or enter new markets
+Domain Expertise: Bringing specialized knowledge in AI, blockchain, or relevant industries
+Resource Contribution: Significant GPU or AI model contributions to the network
 
-### 11.6 Vesting Schedules
+**Vesting Schedules**
 
-- Team and Advisors: Milestone-based vesting over 36 months
-  - 25% unlocked upon reaching 100,000 active users
-  - 25% unlocked upon reaching $10M in platform revenue
-  - 25% unlocked upon successful launch of AGI research program
-  - 25% unlocked after 36 months from TGE
+Team and Advisors: Milestone-based vesting over 36 months
 
-- Ecosystem Fund: 5% unlocked at TGE, then linear vesting over 48 months
-- Treasury: 10% unlocked at TGE, then linear vesting over 36 months
-- Strategic Partnerships: Case-by-case basis, generally over 24-36 months with project-specific milestones
+25% unlocked upon reaching 100,000 active users
+25% unlocked upon reaching $10M in platform revenue
+25% unlocked upon successful launch of AGI research program
+25% unlocked after 36 months from TGE
+Ecosystem Fund: 5% unlocked at TGE, then linear vesting over 48 months
 
-### 11.7 Treasury Management
+Treasury: 10% unlocked at TGE, then linear vesting over 36 months
 
+Strategic Partnerships: Case-by-case basis, generally over 24-36 months with project-specific milestones
+
+**Treasury Management**
 The Treasury will be managed through a diversified strategy:
 
-1. Stable Assets (40%): USDC, USDT for liquidity and operational expenses
-2. Blue-chip Cryptocurrencies (30%): BTC, ETH for potential appreciation
-3. DeFi Yield Farming (20%): Generating additional yield through reputable DeFi protocols
-4. Traditional Investments (10%): Low-risk traditional financial instruments
+Stable Assets (40%): USDC, USDT for liquidity and operational expenses
+Blue-chip Cryptocurrencies (30%): BTC, ETH for potential appreciation
+DeFi Yield Farming (20%): Generating additional yield through reputable DeFi protocols
+Traditional Investments (10%): Low-risk traditional financial instruments
 
-### 11.8 Governance
+**Governance**
+Proposal Submission: Requires staking 50,000 $NLOV tokens
 
-- Proposal Submission: Requires staking 50,000 $NLOV tokens
-- Voting: 1 $NLOV = 1 vote
-- Quorum: 10% of circulating supply must participate for a vote to be valid
-- Approval Threshold: 66% majority required for proposal to pass
+Voting: 1 $NLOV = 1 vote
+Quorum: 10% of circulating supply must participate for a vote to be valid
+Approval Threshold: 66% majority required for proposal to pass
 
-### 11.9 Liquidity Incentives
-
+**Liquidity Incentives**
 6% of total supply allocated for liquidity mining programs:
 
-- Initial DEX Offering (IDO) Liquidity (30%): Bootstrapping initial trading pairs
-- Ongoing Liquidity Mining (70%): Distributed over 24 months to incentivize long-term liquidity provision
+Initial DEX Offering (IDO) Liquidity (30%): Bootstrapping initial trading pairs
+Ongoing Liquidity Mining (70%): Distributed over 24 months to incentivize long-term liquidity provision
 
-### 11.10 Token Burning Mechanism
+**Token Burning Mechanism**
 
-- 1% of all transaction fees on the platform will be burned
-- Quarterly buy-back and burn using 10% of platform revenues
-- Any unused ecosystem tokens after 3 years will be burned
+1% of all transaction fees on the platform will be burned
+Quarterly buy-back and burn using 10% of platform revenues
+Any unused ecosystem tokens after 3 years will be burned
 
-### 11.11 Initial Circulating Supply
-
+**Initial Circulating Supply**
 At TGE, the initial circulating supply will be approximately 14,300,000 $NLOV tokens (2.86% of total supply).
 
-### 11.12 Emission Schedule
-
-- Year 1: 25% of total supply released
-- Year 2: Additional 25% released
-- Year 3: Additional 20% released
-- Year 4: Additional 15% released
-- Year 5: Final 15% released
-
+**Emission Schedule**
+Year 1: 25% of total supply released
+Year 2: Additional 25% released
+Year 3: Additional 20% released
+Year 4: Additional 15% released
+Year 5: Final 15% released
 This controlled emission schedule helps manage token supply and potentially increase value over time.
 
-[IMAGE:  Graph for token emission schedule]
+[ Graph showing token emission schedule]
 
-### 11.13 Use of Funds
-
+**Use of Funds**
 Funds raised through token sales will be allocated as follows:
 
-- Platform Development: 40%
-- Marketing and User Acquisition: 25%
-- Operations and Legal: 15%
-- Research and Development: 10%
-- Liquidity Provision: 10%
+Platform Development: 40%
+Marketing and User Acquisition: 25%
+Operations and Legal: 15%
+Research and Development: 10%
+Liquidity Provision: 10%
 
-[IMAGE: Bar chart, use of funds]
+[ Bar chart showing fund usecase
 
 This comprehensive tokenomics model aims to create a sustainable and growth-oriented ecosystem for Neurolov. It balances the needs of various stakeholders while providing mechanisms for long-term value accrual and community-driven development. The governance system ensures that token holders have a say in the platform's future, while the staking and liquidity incentives encourage long-term participation and support.
 
