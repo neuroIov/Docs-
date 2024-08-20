@@ -503,7 +503,7 @@ A] - Pre-Sale
    - Vesting: 50% unlocked at TGE, then linear vesting over 1 month
 
 B]- Public Sale
-   - Allocation: 30,000,000 tokens (2% of total supply)
+   - Allocation: 30,000,000 tokens (6% of total supply)
    - Price: $0.08
    - Raise: $2,400,000
    - Vesting: 50% unlocked at TGE, then linear vesting over 2 months
