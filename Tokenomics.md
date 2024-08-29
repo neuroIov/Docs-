@@ -65,9 +65,10 @@ Staking rewards will be distributed from the allocated 8% of total supply over a
 - **Resource Contribution**: Significant GPU or AI model contributions to the network
 
 ## **Vesting Schedules**
-**Team and Advisors**: Milestone-based vesting over 36 months
-<br> 25% unlocked upon reaching 100,000 active users<br> 25% unlocked upon reaching $10M in platform revenue
-<br> 25% unlocked upon successful launch of AGI research program
+**Team and Advisors**: **Milestone-based vesting over 36 months**
+<br> 25% unlocked upon reaching 100,000 active users
+<br> 25% unlocked upon reaching $10M in platform revenue
+<br> 25% unlocked upon successful launch of complete ecosystem
 <br> 25% unlocked after 36 months from TGE
 
 - **Ecosystem Fund**: 5% unlocked at TGE, then linear vesting over 48 months
@@ -83,9 +84,9 @@ The Treasury will be managed through a diversified strategy:
 
 ## **Governance**
 - **Proposal Submission**: Requires staking 50,000 $NLOV tokens
-- **Voting**: 1 $NLOV = 1 vote
-- **Quorum**: 10% of circulating supply must participate for a vote to be valid
-- **Approval Threshold**: 66% majority required for proposal to pass
+<br>**Voting**: 1 $NLOV = 1 vote
+<br> **Quorum**: 10% of circulating supply must participate for a vote to be valid
+<br> **Approval Threshold**: 66% majority required for proposal to pass
 
 ## **Liquidity Incentives**
 - 6% of total supply allocated for liquidity mining programs:
@@ -94,19 +95,19 @@ The Treasury will be managed through a diversified strategy:
 - **Ongoing Liquidity Mining**(70%): Distributed over 24 months to incentivize long-term liquidity provision
 
 ## **Token Burning Mechanism**
-- 1% of all transaction fees on the platform will be burned
-- Quarterly buy-back and burn using 10% of platform revenues
-- Any unused ecosystem tokens after 3 years will be burned
+<br> 1% of all transaction fees on the platform will be burned
+<br> Quarterly buy-back and burn using 10% of platform revenues
+<br> Any unused ecosystem tokens after 3 years will be burned
 
 ## **Initial Circulating Supply**
 At TGE, the initial circulating supply will be approximately 14,300,000 $NLOV tokens (2.86% of total supply).
 
 ## **Emission Schedule**
-- Year 1: 25% of total supply released
-- Year 2: Additional 25% released
-- Year 3: Additional 20% released
-- Year 4: Additional 15% released
-- Year 5: Final 15% released
+<br> Year 1: 25% of total supply released
+<br> Year 2: Additional 25% released
+<br> Year 3: Additional 20% released
+<br> Year 4: Additional 15% released
+<br> Year 5: Final 15% released
 This controlled emission schedule helps manage token supply and potentially increase value over time.
 
 ## **Use of Funds**
