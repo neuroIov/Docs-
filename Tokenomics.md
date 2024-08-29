@@ -70,9 +70,9 @@ Staking rewards will be distributed from the allocated 8% of total supply over a
 <br> 25% unlocked upon successful launch of complete ecosystem
 <br> 25% unlocked after 36 months from TGE
 
-7.<br> **Ecosystem Fund**: 5% unlocked at TGE, then linear vesting over 48 months
-8.<br> **Treasury**: 10% unlocked at TGE, then linear vesting over 36 months
-9.<br> **Strategic Partnerships**: Case-by-case basis, generally over 24-36 months with project-specific milestones
+<br>7. **Ecosystem Fund**: 5% unlocked at TGE, then linear vesting over 48 months
+<br>8. **Treasury**: 10% unlocked at TGE, then linear vesting over 36 months
+<br>9. **Strategic Partnerships**: Case-by-case basis, generally over 24-36 months with project-specific milestones
 
 ## **Treasury Management**: The Treasury will be managed through a diversified strategy:
 - **Stable Assets (40%)**: USDC, USDT for liquidity and operational expenses
