@@ -15,18 +15,18 @@ The $NLOV token is the cornerstone of the Neurolov ecosystem, designed to incent
 - **Token Burn** : (x)% of txn fees collected across platform will be burned
 
 ## **Token Allocation**
-1- Pre-Sale: **2% (10,000,000 tokens)**
-2- Public Sale:**6% (30,000,000 tokens)**
-3- Ecosystem Fund:**20% (100,000,000 tokens)**
-4- Team: **16% (80,000,000 tokens)**
-5- Treasury:**15% (75,000,000 tokens)**
-6- Staking Rewards:**8% (40,000,000 tokens)**
-7- Liquidity Incentives:**6% (30,000,000 tokens)**
-8- Strategic Partnerships: **4% (20,000,000 tokens)**
-9- R&D: **4% (20,000,000 tokens)**
-10- Marketing:**4% (20,000,000 tokens)**
-11- Advisors: **2% (10,000,000 tokens)**
-12- Reserve: **13% (65,000,000 tokens)**
+ - Pre-Sale: **2% (10,000,000 tokens)**
+ - Public Sale:**6% (30,000,000 tokens)**
+ - Ecosystem Fund:**20% (100,000,000 tokens)**
+ - Team: **16% (80,000,000 tokens)**
+ - Treasury:**15% (75,000,000 tokens)**
+ - Staking Rewards:**8% (40,000,000 tokens)**
+ - Liquidity Incentives:**6% (30,000,000 tokens)**
+ - Strategic Partnerships: **4% (20,000,000 tokens)**
+ - R&D: **4% (20,000,000 tokens)**
+ - Marketing:**4% (20,000,000 tokens)**
+ - Advisors: **2% (10,000,000 tokens)**
+ - Reserve: **13% (65,000,000 tokens)**
 
 ## **Token Sale Structure**
 1. - **Pre-Sale**
