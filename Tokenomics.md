@@ -66,10 +66,9 @@ Staking rewards will be distributed from the allocated 8% of total supply over a
 
 ## **Vesting Schedules**
 **Team and Advisors**: Milestone-based vesting over 36 months
-- 25% unlocked upon reaching 100,000 active users
-- 25% unlocked upon reaching $10M in platform revenue
-- 25% unlocked upon successful launch of AGI research program
-- 25% unlocked after 36 months from TGE
+<br> 25% unlocked upon reaching 100,000 active users<br> 25% unlocked upon reaching $10M in platform revenue
+<br> 25% unlocked upon successful launch of AGI research program
+<br> 25% unlocked after 36 months from TGE
 
 - **Ecosystem Fund**: 5% unlocked at TGE, then linear vesting over 48 months
 - **Treasury**: 10% unlocked at TGE, then linear vesting over 36 months
