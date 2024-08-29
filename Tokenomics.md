@@ -66,16 +66,16 @@ Staking rewards will be distributed from the allocated 8% of total supply over a
 
 ## **Vesting Schedules**
 
-## **Team and Advisors (18%)**: 
+# **Team and Advisors (18%)**: 
 **Milestone-based vesting over 36 months**
 <br> 25% unlocked upon reaching 100,000 active users
 <br> 25% unlocked upon reaching $10M in platform revenue
 <br> 25% unlocked upon successful launch of complete ecosystem
 <br> 25% unlocked after 36 months from TGE
 
-- **Ecosystem Fund**: 5% unlocked at TGE, then linear vesting over 48 months
-- **Treasury**: 10% unlocked at TGE, then linear vesting over 36 months
-- **Strategic Partnerships**: Case-by-case basis, generally over 24-36 months with project-specific milestones
+<br> **Ecosystem Fund**: 5% unlocked at TGE, then linear vesting over 48 months
+<br> **Treasury**: 10% unlocked at TGE, then linear vesting over 36 months
+<br> **Strategic Partnerships**: Case-by-case basis, generally over 24-36 months with project-specific milestones
 
 ## **Treasury Management**
 The Treasury will be managed through a diversified strategy:
