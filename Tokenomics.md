@@ -1,8 +1,20 @@
 **Tokenomics**
 The $NLOV token is the cornerstone of the Neurolov ecosystem, designed to incentivize participation, govern the platform, and facilitate seamless transactions. The total supply of $NLOV tokens is 500 million (500,000,000).
 
-**Token Allocation**
+**Token Name**: NEUROLOV 
+**Token Symbol** : $NLOV 
+**Tagline** : Fuel of AI
+**Token Type** : SPL Token
+**Token Category** : Utility Token
+**Blockchain** : Solana
+**Decimal** : 9 
+**Maximum Supply** : 500 Million 
+**Mint Authority** : Admin, Later DAO
+**Freeze Authority** : Admin, Later DAO
+**Token Burn** : (x)% of txn fees collected across platform will be burned
 
+
+**Token Allocation**
 - **Pre-Sale: 2% (10,000,000 tokens)**
 - **Public Sale: 6% (30,000,000 tokens)**
 - **Ecosystem Fund: 20% (100,000,000 tokens)**
@@ -19,14 +31,13 @@ The $NLOV token is the cornerstone of the Neurolov ecosystem, designed to incent
 [Pie chart visualizing token allocation]
 
 **Token Sale Structure**
-
-A] - Pre-Sale
+A] -** Pre-Sale**
    - Allocation: 10,000,000 tokens (2% of total supply)
    - Price: $0.055
    - Raise: $550,000
    - Vesting: 50% unlocked at TGE, then linear vesting over 1 month
 
-b] - Public Sale
+b] -** Public Sale**
    - Allocation: 30,000,000 tokens (2% of total supply)
    - Price: $0.077
    - Raise: $2,310,000
@@ -34,7 +45,6 @@ b] - Public Sale
    - Total Raise: $2,860,000
 
 **Ecosystem Fund Allocation**
-
 The Ecosystem Fund (20% of total supply) will be used to foster growth and development within the Neurolov ecosystem:
 
 - Developer Grants (40%): Funding for projects building on Neurolov
@@ -44,18 +54,14 @@ The Ecosystem Fund (20% of total supply) will be used to foster growth and devel
 
 **Staking Rewards**
 A tiered staking system will be implemented to encourage long-term holding:
-
 - Tier 1 (30 days): 5% APY
 - Tier 2 (90 days): 8% APY
 - Tier 3 (180 days): 12% APY
 - Tier 4 (365 days): 15% APY
 
 Staking rewards will be distributed from the allocated 8% of total supply over a period of 5 years, with the option to extend through governance decisions.
-
 **Strategic Partnerships**
-
 Criteria for strategic partners:
-
 - Technological Synergy: Partners whose technology complements Neurolov's offerings
 - Market Reach: Ability to expand Neurolov's user base or enter new markets
 - Domain Expertise: Bringing specialized knowledge in AI, blockchain, or relevant industries
@@ -63,21 +69,18 @@ Criteria for strategic partners:
 
 **Vesting Schedules**
 
-Team and Advisors: Milestone-based vesting over 36 months
-
+**Team and Advisors**: Milestone-based vesting over 36 months
 - 25% unlocked upon reaching 100,000 active users
 - 25% unlocked upon reaching $10M in platform revenue
 - 25% unlocked upon successful launch of AGI research program
 - 25% unlocked after 36 months from TGE
-- Ecosystem Fund: 5% unlocked at TGE, then linear vesting over 48 months
 
-- Treasury: 10% unlocked at TGE, then linear vesting over 36 months
-
-- Strategic Partnerships: Case-by-case basis, generally over 24-36 months with project-specific milestones
+- **Ecosystem Fund**: 5% unlocked at TGE, then linear vesting over 48 months
+- **Treasury**: 10% unlocked at TGE, then linear vesting over 36 months
+- **Strategic Partnerships**: Case-by-case basis, generally over 24-36 months with project-specific milestones
 
 **Treasury Management**
 The Treasury will be managed through a diversified strategy:
-
 - Stable Assets (40%): USDC, USDT for liquidity and operational expenses
 - Blue-chip Cryptocurrencies (30%): BTC, ETH for potential appreciation
 - DeFi Yield Farming (20%): Generating additional yield through reputable DeFi protocols
@@ -85,7 +88,6 @@ The Treasury will be managed through a diversified strategy:
 
 **Governance**
 - Proposal Submission: Requires staking 50,000 $NLOV tokens
-
 - Voting: 1 $NLOV = 1 vote
 - Quorum: 10% of circulating supply must participate for a vote to be valid
 - Approval Threshold: 66% majority required for proposal to pass
@@ -97,7 +99,6 @@ The Treasury will be managed through a diversified strategy:
 - Ongoing Liquidity Mining (70%): Distributed over 24 months to incentivize long-term liquidity provision
 
 **Token Burning Mechanism**
-
 - 1% of all transaction fees on the platform will be burned
 - Quarterly buy-back and burn using 10% of platform revenues
 - Any unused ecosystem tokens after 3 years will be burned
@@ -126,4 +127,4 @@ Funds raised through token sales will be allocated as follows:
 
 [ Bar chart showing use of funds breakdown]
 
-This comprehensive tokenomics model aims to create a sustainable and growth-oriented ecosystem for Neurolov. It balances the needs of various stakeholders while providing mechanisms for long-term value accrual and community-driven development. The governance system ensures that token holders have a say in the platform's future, while the staking and liquidity incentives encourage long-term participation and support.
+This tokenomics aims to create a sustainable and growth-oriented ecosystem for Neurolov. It balances the needs of all stakeholders while providing mechanisms for long-term value accrual and community-driven development. Governance system and allocation ensures we are community first. 
