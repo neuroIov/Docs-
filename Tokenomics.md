@@ -2,7 +2,6 @@
 The $NLOV token is the cornerstone of the Neurolov ecosystem, designed to incentivize participation, govern the platform, and facilitate seamless transactions. 
 
 - The total supply of $NLOV tokens will ever exist is 500 million (500,000,000).
-
 - **Token Name**: NEUROLOV 
 - **Token Symbol** : $NLOV 
 - **Tagline** : Fuel of AI
