@@ -29,13 +29,13 @@ The $NLOV token is the cornerstone of the Neurolov ecosystem, designed to incent
  - Reserve: **13% (65,000,000 tokens)**
 
 ## **Token Sale Structure**
-##1. - **Pre-Sale**
+##1.**Pre-Sale**
    - **Allocation**: 10,000,000 tokens (2% of total supply)
    - **Price**: $0.055
    - **Raise**: $550,000
    - **Vesting**: 50% unlocked at TGE, then linear vesting over 1 month
 
-##2. - **Public Sale**
+##2.**Public Sale**
    - **Allocation**: 30,000,000 tokens (2% of total supply)
    - **Price**: $0.077
    - **Raise**: $2,310,000
