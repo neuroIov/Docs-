@@ -121,13 +121,13 @@ Funds raised through token sales will be allocated as follows:
 
 This tokenomics aims to create a sustainable and growth-oriented ecosystem for Neurolov. It balances the needs of all stakeholders while providing mechanisms for long-term value accrual and community-driven development. Governance system and allocation ensures we are community first. 
 
-## ImG 2 make
+**ImG 2 make**
 
-[Graph showing token emission schedule]
-[Pie chart visualizing token allocation]
-[Bar chart showing use of funds breakdown]
-[Staking, Rewards] 
-[Pie chart fund allocation]
-[Token Logo] 
-[Token Image] 
-[Vesting Schedule] 
+- [Graph showing token emission schedule]
+- [Pie chart visualizing token allocation]
+- [Bar chart showing use of funds breakdown]
+- [Staking, Rewards] 
+- [Pie chart fund allocation]
+- [Token Logo] 
+- [Token Image] 
+- [Vesting Schedule] 
