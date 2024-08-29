@@ -66,7 +66,7 @@ Criteria for strategic partners:
 - **Domain Expertise**: Bringing specialized knowledge in AI, blockchain, or relevant industries
 - **Resource Contribution**: Significant GPU or AI model contributions to the network
 
-# 6. **Team and Advisors **: [18%]
+# 6.**Team and Advisors**: [18%]
 **Milestone-based vesting over 36 months**
 <br> 25% unlocked upon reaching 100,000 active users
 <br> 25% unlocked upon reaching $10M in platform revenue
