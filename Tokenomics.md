@@ -65,7 +65,8 @@ Staking rewards will be distributed from the allocated 8% of total supply over a
 - **Resource Contribution**: Significant GPU or AI model contributions to the network
 
 ## **Vesting Schedules**
-**Team and Advisors (18%)**: 
+
+## **Team and Advisors (18%)**: 
 **Milestone-based vesting over 36 months**
 <br> 25% unlocked upon reaching 100,000 active users
 <br> 25% unlocked upon reaching $10M in platform revenue
